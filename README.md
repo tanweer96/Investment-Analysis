@@ -74,7 +74,7 @@ It provides actionable insights to optimize product offerings, personalize strat
 - **Bar Chart – Asset Class Frequency**
 - **Pie Chart – Risk Profile Distribution**
 - **Stacked Bar – Sector Preferences by Age**
-- **Heatmap – Investment Frequency by Month**
+
 
 ---
 
@@ -97,10 +97,12 @@ It provides actionable insights to optimize product offerings, personalize strat
 ---
 
 ## 🖼️ Dashboard Previews:
-
-| ![DEMOGRAPHICS](https://github.com/tanweer96/Investment-Analysis/blob/main/DEMOGRAPHICS.jpg) 
-| ![PREFERENCES](https://github.com/tanweer96/Investment-Analysis/blob/main/PREFERENCES.jpg) 
-| ![BEHAVIOR](https://github.com/tanweer96/Investment-Analysis/blob/main/BEHAVIOR.jpg)
+## Demographics
+![DEMOGRAPHICS](https://github.com/tanweer96/Investment-Analysis/blob/main/DEMOGRAPHICS.jpg) 
+## Preferences
+![PREFERENCES](https://github.com/tanweer96/Investment-Analysis/blob/main/PREFERENCES.jpg) 
+## Behavior
+![BEHAVIOR](https://github.com/tanweer96/Investment-Analysis/blob/main/BEHAVIOR.jpg)
 
 ---
 
@@ -108,7 +110,7 @@ It provides actionable insights to optimize product offerings, personalize strat
 
 - **Power BI**: DAX, Power Query, Relationships
 - **Data Cleaning**: Transformation and modeling
-- **Visualization**: KPI Cards, Charts, Maps, Donuts, Funnels
+- **Visualization**: KPI Cards, Charts, Maps, Donuts, Pie
 
 
 > 📌 Star ⭐ this repo if you found the dashboard insightful!

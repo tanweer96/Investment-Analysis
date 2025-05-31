@@ -1,6 +1,6 @@
 # 📊 Investment Insights Dashboard
 
-### 🔗 Dashboard Link: [Click to view PBIX file](https://github.com/tanweer96/Investment_Analysis/blob/main/Investment%20Insights%20Dashboard.pbix)
+### 🔗 Dashboard Link: [Click to view PBIX file](https://github.com/tanweer96/Investment-Analysis/blob/main/INVESTMENT%20ANALYSIS.pbix)
 
 ## 🛠 Problem Statement
 
@@ -98,9 +98,9 @@ It provides actionable insights to optimize product offerings, personalize strat
 
 ## 🖼️ Dashboard Previews:
 
-| Demographics | Preferences | Behavior |
-|-------------|-------------|----------|
-| ![DEMOGRAPHICS](https://github.com/tanweer96/Investment_Analysis/blob/main/DEMOGRAPHICS.jpg) | ![PREFERENCES](https://github.com/tanweer96/Investment_Analysis/blob/main/PREFERENCES.jpg) | ![BEHAVIOR](https://github.com/tanweer96/Investment_Analysis/blob/main/BEHAVIOR.jpg) |
+| ![DEMOGRAPHICS](https://github.com/tanweer96/Investment-Analysis/blob/main/DEMOGRAPHICS.jpg) 
+| ![PREFERENCES](https://github.com/tanweer96/Investment-Analysis/blob/main/PREFERENCES.jpg) 
+| ![BEHAVIOR](https://github.com/tanweer96/Investment-Analysis/blob/main/BEHAVIOR.jpg)
 
 ---
 
